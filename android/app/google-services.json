@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76708354033",
+    "project_id": "mrfixit-8e013",
+    "storage_bucket": "mrfixit-8e013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76708354033:android:e54038ad150c9bb1119650",
+        "android_client_info": {
+          "package_name": "com.example.mr_fix_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fYa21JybUTY4BKQnBvwAQ2vCJwJN9Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
